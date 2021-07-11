@@ -20,7 +20,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://mr-destructive.github.io//TechBlog/feed.xml)
+▶ [...more blog articles](https://mr-destructive.github.io/techstructive-blog/feed.xml)
 ---
 ## Github Stats
 
