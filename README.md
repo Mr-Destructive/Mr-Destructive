@@ -15,7 +15,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" width="50" height="50" />
 ---
-## Latest BLog Posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Learning BASH by making a Number game](https://mr-destructive.github.io//techstructive-blog/2021/07/08/Learn-BASH-Number-Game.html)
 - [Vim: Terminal Integration](https://mr-destructive.github.io//techstructive-blog/2021/06/29/Vim-Terminal.html)
