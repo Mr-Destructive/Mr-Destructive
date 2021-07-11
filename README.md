@@ -17,7 +17,11 @@
 ---
 ## Latest BLog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Learning BASH by making a Number game](https://mr-destructive.github.io//techstructive-blog/2021/07/08/Learn-BASH-Number-Game.html)
+- [Vim: Terminal Integration](https://mr-destructive.github.io//techstructive-blog/2021/06/29/Vim-Terminal.html)
+- [Vim: Enhancing Movement Speed](https://mr-destructive.github.io//techstructive-blog/2021/06/26/Vim-Enhancing-Movement-speed.html)
+- [What is BASH ?](https://mr-destructive.github.io//techstructive-blog/2021/06/17/What-is-BASH.html)
+- [Vim: Keymapping Guide](https://mr-destructive.github.io//techstructive-blog/2021/06/14/Vim-Keymapping.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://mr-destructive.github.io/techstructive-blog/)
