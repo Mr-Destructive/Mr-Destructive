@@ -19,7 +19,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [BASH Scripting Guide - PART - 3](https://mr-destructive.github.io//techstructive-blog/2021/07/12/BASH-scripting-P3.html)
 - [Learning BASH by making a Number game](https://mr-destructive.github.io//techstructive-blog/2021/07/08/Learn-BASH-Number-Game.html)
-- [BASH Scripting Guide - PART - 3](https://mr-destructive.github.io//techstructive-blog/2021/07/02/BASH-scripting-P2.html)
+- [BASH Scripting Guide - PART - 2](https://mr-destructive.github.io//techstructive-blog/2021/07/02/BASH-scripting-P2.html)
 - [Vim: Terminal Integration](https://mr-destructive.github.io//techstructive-blog/2021/06/29/Vim-Terminal.html)
 - [Vim: Enhancing Movement Speed](https://mr-destructive.github.io//techstructive-blog/2021/06/26/Vim-Enhancing-Movement-speed.html)
 <!-- BLOG-POST-LIST:END -->
