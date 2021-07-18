@@ -17,11 +17,11 @@
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vim: Enhancing Editing Speed](https://mr-destructive.github.io//techstructive-blog/vim/2021/07/18/Vim-Enhancing-Editing-speed.html)
 - [Cryptocurrency Price Scrapping using BASH and Coingecko API](https://mr-destructive.github.io//techstructive-blog/bash/2021/07/15/BASH-Crypto-Coingecko.html)
 - [BASH Scripting Guide - PART - 3](https://mr-destructive.github.io//techstructive-blog/bash/2021/07/12/BASH-scripting-P3.html)
 - [Learning BASH by making a Number game](https://mr-destructive.github.io//techstructive-blog/bash/2021/07/08/Learn-BASH-Number-Game.html)
 - [BASH Scripting Guide - PART - 2](https://mr-destructive.github.io//techstructive-blog/bash/2021/07/02/BASH-scripting-P2.html)
-- [Vim: Terminal Integration](https://mr-destructive.github.io//techstructive-blog/vim/2021/06/29/Vim-Terminal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://mr-destructive.github.io/techstructive-blog/)
