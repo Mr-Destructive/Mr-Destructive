@@ -17,11 +17,11 @@
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrapping the meaning of a word from dictionary.com using BASH script.](https://mr-destructive.github.io//techstructive-blog/bash/2021/07/27/BASH-script-dictionary-scrap.html)
 - [Vim: Registers](https://mr-destructive.github.io//techstructive-blog/vim/2021/07/21/Vim-Registers.html)
 - [Vim: Enhancing Editing Speed](https://mr-destructive.github.io//techstructive-blog/vim/2021/07/18/Vim-Enhancing-Editing-speed.html)
 - [Cryptocurrency Price Scrapping using BASH and Coingecko API](https://mr-destructive.github.io//techstructive-blog/bash/2021/07/15/BASH-Crypto-Coingecko.html)
 - [BASH Scripting Guide - PART - 3](https://mr-destructive.github.io//techstructive-blog/bash/2021/07/12/BASH-scripting-P3.html)
-- [Learning BASH by making a Number game](https://mr-destructive.github.io//techstructive-blog/bash/2021/07/08/Learn-BASH-Number-Game.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://mr-destructive.github.io/techstructive-blog/)
