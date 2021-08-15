@@ -17,11 +17,11 @@
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Quick Setup Script](https://mr-destructive.github.io//techstructive-blog/django,/web-development,/python/2021/08/15/Django-Quick-Setup.html)
 - [Vim: Buffers](https://mr-destructive.github.io//techstructive-blog/vim/2021/08/11/Vim-Buffers.html)
 - [Vim: Window Splits](https://mr-destructive.github.io//techstructive-blog/vim/2021/08/06/Vim-Window-Splits.html)
 - [Vim: Tabs](https://mr-destructive.github.io//techstructive-blog/vim/2021/08/03/Vim-Tabs.html)
 - [Scrapping the meaning of a word from dictionary.com using BASH script.](https://mr-destructive.github.io//techstructive-blog/bash/2021/07/27/BASH-script-dictionary-scrap.html)
-- [Vim: Registers](https://mr-destructive.github.io//techstructive-blog/vim/2021/07/21/Vim-Registers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://mr-destructive.github.io/techstructive-blog/)
