@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Meet Gor aka @Mr-Destructive
 - I am a student pursing B.Tech in I.T., I like programming a lot. 
 - A Linux Enthusiast, C++ and Js geek, Bash Scripter. 
-- Learning Python and Web developemnt
+- Learning Python and Web development
 
 ### I also have my Personal blog at [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/).
 ---
