@@ -19,11 +19,11 @@
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Vim for Competitive Programming](https://mr-destructive.github.io//techstructive-blog/vim,/comnpetitive-programming/2021/09/13/Vim-for-cp.html)
-- [Filter and Find an Issue on GitHub](https://mr-destructive.github.io//techstructive-blog/github,/open-source/2021/09/09/Find-Issues-GitHub.html)
+- [My Journey as a Technical Writer](https://mr-destructive.github.io//techstructive-blog/2021/09/14/My-Journey.html)
+- [Vim for Competitive Programming](https://mr-destructive.github.io//techstructive-blog/vim/comnpetitive-programming/2021/09/13/Vim-for-cp.html)
+- [Filter and Find an Issue on GitHub](https://mr-destructive.github.io//techstructive-blog/github/open-source/2021/09/09/Find-Issues-GitHub.html)
 - [Why use Vim ?](https://mr-destructive.github.io//techstructive-blog/vim/2021/09/05/Why-Vim.html)
 - [Vim: NERDTree](https://mr-destructive.github.io//techstructive-blog/vim/2021/08/31/Vim-NERDTree.html)
-- [Dev Quotes: A platform for developers to quote and get inspired - Auth0 x Hashnode Hackathon](https://mr-destructive.github.io//techstructive-blog/hashnode,/django,/web-development,/python/2021/08/27/DevQuotes-Auth0-x-Hashnode.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://mr-destructive.github.io/techstructive-blog/)
