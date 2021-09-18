@@ -19,11 +19,11 @@
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Object-Oriented Programming in C++: Access Modifiers](https://mr-destructive.github.io//techstructive-blog/c++/object-oriented-programming/2021/09/18/OOP-in-Cpp-P2.html)
 - [Object-Oriented Programming in C++: Classes and Objects](https://mr-destructive.github.io//techstructive-blog/c++/object-oriented-programming/2021/09/16/OOP-in-Cpp-P1.html)
 - [My Journey as a Technical Writer](https://mr-destructive.github.io//techstructive-blog/2021/09/14/My-Journey.html)
 - [Vim for Competitive Programming](https://mr-destructive.github.io//techstructive-blog/vim/comnpetitive-programming/2021/09/13/Vim-for-cp.html)
 - [Filter and Find an Issue on GitHub](https://mr-destructive.github.io//techstructive-blog/github/open-source/2021/09/09/Find-Issues-GitHub.html)
-- [Why use Vim ?](https://mr-destructive.github.io//techstructive-blog/vim/2021/09/05/Why-Vim.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://mr-destructive.github.io/techstructive-blog/)
