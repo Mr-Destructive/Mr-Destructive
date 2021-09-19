@@ -15,7 +15,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" width="50" height="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="80" height="80" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="80" height="80" />
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
