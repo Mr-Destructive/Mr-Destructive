@@ -18,11 +18,11 @@
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Object-Oriented Programming in C++: Constructors](https://mr-destructive.github.io//techstructive-blog/c++/object-oriented-programming/2021/09/23/OOP-in-Cpp-P3.html)
-- [What’s in Techstructive Blog](https://mr-destructive.github.io//techstructive-blog/hashnode/2021/09/19/Techstructive-blog.html)
-- [Object-Oriented Programming in C++: Access Modifiers](https://mr-destructive.github.io//techstructive-blog/c++/object-oriented-programming/2021/09/18/OOP-in-Cpp-P2.html)
-- [Object-Oriented Programming in C++: Classes and Objects](https://mr-destructive.github.io//techstructive-blog/c++/object-oriented-programming/2021/09/16/OOP-in-Cpp-P1.html)
-- [My Journey as a Technical Writer](https://mr-destructive.github.io//techstructive-blog/hashnode/2021/09/14/My-Journey.html)
+- [Object-Oriented Programming in C++: Constructors](https://mr-destructive.github.io/techstructive-blog/c++/object-oriented-programming/2021/09/23/OOP-in-Cpp-P3.html)
+- [What’s in Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/hashnode/2021/09/19/Techstructive-blog.html)
+- [Object-Oriented Programming in C++: Access Modifiers](https://mr-destructive.github.io/techstructive-blog/c++/object-oriented-programming/2021/09/18/OOP-in-Cpp-P2.html)
+- [Object-Oriented Programming in C++: Classes and Objects](https://mr-destructive.github.io/techstructive-blog/c++/object-oriented-programming/2021/09/16/OOP-in-Cpp-P1.html)
+- [My Journey as a Technical Writer](https://mr-destructive.github.io/techstructive-blog/hashnode/2021/09/14/My-Journey.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://mr-destructive.github.io/techstructive-blog/)
