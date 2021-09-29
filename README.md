@@ -18,11 +18,11 @@
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Machine Learning?](https://mr-destructive.github.io/techstructive-blog/hashnode/machine-learning/2021/09/29/Machine-Learning.html)
 - [Django + Auth0 Quick Setup](https://mr-destructive.github.io/techstructive-blog/django/bash/python/2021/09/28/Django-Auth0-Quick-Setup.html)
 - [The Hello World Programs](https://mr-destructive.github.io/techstructive-blog/hashnode/2021/09/26/Hello-World.html)
 - [Object-Oriented Programming in C++: Constructors](https://mr-destructive.github.io/techstructive-blog/c++/object-oriented-programming/2021/09/23/OOP-in-Cpp-P3.html)
 - [What’s in Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/hashnode/2021/09/19/Techstructive-blog.html)
-- [Object-Oriented Programming in C++: Access Modifiers](https://mr-destructive.github.io/techstructive-blog/c++/object-oriented-programming/2021/09/18/OOP-in-Cpp-P2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://mr-destructive.github.io/techstructive-blog/)
