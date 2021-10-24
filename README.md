@@ -18,11 +18,11 @@
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask and Django - the backend web frameworks](https://mr-destructive.github.io/techstructive-blog/django/flask/python/web-development/2021/10/24/Flask-Django.html)
 - [Comment/Uncomment Code: Vim for Programmers](https://mr-destructive.github.io/techstructive-blog/vim/2021/10/07/Vim-P-comments.html)
 - [What is Machine Learning?](https://mr-destructive.github.io/techstructive-blog/hashnode/machine-learning/2021/09/29/Machine-Learning.html)
 - [Django + Auth0 Quick Setup](https://mr-destructive.github.io/techstructive-blog/django/bash/python/2021/09/28/Django-Auth0-Quick-Setup.html)
 - [The Hello World Programs](https://mr-destructive.github.io/techstructive-blog/hashnode/2021/09/26/Hello-World.html)
-- [Object-Oriented Programming in C++: Constructors](https://mr-destructive.github.io/techstructive-blog/c++/object-oriented-programming/2021/09/23/OOP-in-Cpp-P3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://mr-destructive.github.io/techstructive-blog/)
