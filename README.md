@@ -9,11 +9,11 @@
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Basics: Folder Structure](https://mr-destructive.github.io/techstructive-blog/django/python/web-development/2021/11/24/Django-Basics-P3.html)
 - [Django Basics: Setup and Installation](https://mr-destructive.github.io/techstructive-blog/django/python/web-development/2021/11/20/Django-Basics-P2.html)
 - [Django Basics: What is it?](https://mr-destructive.github.io/techstructive-blog/django/python/web-development/2021/11/16/Django-Basics-P1.html)
 - [Basics of curl command](https://mr-destructive.github.io/techstructive-blog/bash/linux/networking/2021/11/05/CURL-Basics.html)
 - [Crossposting with a single script: Crossposter.sh](https://mr-destructive.github.io/techstructive-blog/bash/hashnode/2021/10/31/Crossposter.sh.html)
-- [Hacktoberfest 2021](https://mr-destructive.github.io/techstructive-blog/open-source/2021/10/28/Hacktoberfest-2021.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 
