@@ -1,3 +1,4 @@
+<a align="left" href="https://app.daily.dev/Mr_Destructive" ><img align="right" src="https://api.daily.dev/devcards/38b3d746e9794df99fdb1f68bd5efd84.png?r=gmb" width="400" alt="Meet Gor's Dev Card"/></a> 
 ## 👋 Hi, I’m Meet Gor aka @Mr-Destructive
 - ### I am a student pursing B.Tech in I.T., I like programming a lot. 
 - ### A Linux and Vim Enthusiast, Terminal citizen, BASH scripter, Pythonista. 
@@ -17,9 +18,6 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 
-
-
-
 ## Toolbox
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/BASH-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -38,8 +36,7 @@
 
 ## Github Stats
 
-![Mr-Destructive's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Destructive&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Destructive&layout=compact&hide=html,ruby,css,scss)](https://github.com/Mr-Destructive/github-readme-stats)
+![Mr-Destructive's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Destructive&show_icons=true&theme=cobalt)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Destructive&layout=compact&hide=html,ruby,css,scss)](https://github.com/Mr-Destructive/github-readme-stats)
 
 ---
 ## Connect with me 
