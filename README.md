@@ -1,4 +1,4 @@
-<a align="left" href="https://app.daily.dev/Mr_Destructive" ><img align="right" src="https://api.daily.dev/devcards/38b3d746e9794df99fdb1f68bd5efd84.png?r=gmb" width="400" alt="Meet Gor's Dev Card"/></a> 
+<a align="left" href="https://app.daily.dev/Mr_Destructive" ><img align="right" src="https://api.daily.dev/devcards/38b3d746e9794df99fdb1f68bd5efd84.png?r=gmb" width="300" alt="Meet Gor's Dev Card"/></a> 
 ## 👋 Hi, I’m Meet Gor aka @Mr-Destructive
 - ### I am a student pursing B.Tech in I.T., I like programming a lot. 
 - ### A Linux and Vim Enthusiast, Terminal citizen, BASH scripter, Pythonista. 
