@@ -5,7 +5,7 @@
 - ### Technical Content Writer and Django Developer.
 ---
 ## Author at
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/meetgor/articles) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mr_destructive) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://techstructiveblog.hashnode.dev/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/meetgor/articles) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mr_destructive) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://techstructiveblog.hashnode.dev/) [![Codenewbie](https://img.shields.io/badge/codenewbie-black?style=for-the-badge&logo=codenewbie&logoColor=#8cd345)](https://community.codenewbie.org/mr_destructive)
 ---
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
 #### Latest Blog Posts
