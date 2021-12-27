@@ -10,11 +10,11 @@
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Basics: Static Files](https://mr-destructive.github.io/techstructive-blog/django/python/web-development/2021/12/27/Django-Basics-P6.html)
 - [Django Basics: Templates](https://mr-destructive.github.io/techstructive-blog/django/python/web-development/2021/12/14/Django-Basics-P5.html)
 - [Django Basics: Views and URLS](https://mr-destructive.github.io/techstructive-blog/django/python/web-development/2021/11/30/Django-Basics-P4.html)
 - [Django Basics: Folder Structure](https://mr-destructive.github.io/techstructive-blog/django/python/web-development/2021/11/24/Django-Basics-P3.html)
 - [Django Basics: Setup and Installation](https://mr-destructive.github.io/techstructive-blog/django/python/web-development/2021/11/20/Django-Basics-P2.html)
-- [Django Basics: What is it?](https://mr-destructive.github.io/techstructive-blog/django/python/web-development/2021/11/16/Django-Basics-P1.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 
