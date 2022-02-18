@@ -10,11 +10,11 @@
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Podevcast: A single source for developer podcasts](https://mr-destructive.github.io/techstructive-blog/python/hashnode/2022/02/18/Podevcast.html)
 - [Django Basics: CRUD API](https://mr-destructive.github.io/techstructive-blog/django/2022/02/03/Django-Basics-P10.html)
 - [Django Basics: Admin Section](https://mr-destructive.github.io/techstructive-blog/django/python/web-development/2022/01/26/Django-Basics-P9.html)
 - [Django Basics: Database Configurations](https://mr-destructive.github.io/techstructive-blog/django/python/web-development/2022/01/16/Django-Basics-P8.html)
 - [Django Basics: Creating Models](https://mr-destructive.github.io/techstructive-blog/django/python/web-development/2022/01/04/Django-Basics-P7.html)
-- [Django Basics: Static Files](https://mr-destructive.github.io/techstructive-blog/django/python/web-development/2021/12/27/Django-Basics-P6.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 
