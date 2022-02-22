@@ -1,8 +1,8 @@
-<a align="left" href="https://app.daily.dev/Mr_Destructive" ><img align="right" src="https://api.daily.dev/devcards/38b3d746e9794df99fdb1f68bd5efd84.png?r=gmb" width="300" alt="Meet Gor's Dev Card"/></a> 
+<a align="left" href="https://app.daily.dev/Mr_Destructive" ><img align="right" src="https://api.daily.dev/devcards/38b3d746e9794df99fdb1f68bd5efd84.png?r=gmb" width="250" alt="Meet Gor's Dev Card"/></a> 
 ## 👋 Hi, I’m Meet Gor aka @Mr-Destructive
 - ### I am a student pursing B.Tech in I.T., I like programming a lot. 
-- ### A Linux and Vim Enthusiast, Terminal citizen, BASH scripter, Pythonista. 
 - ### Technical Content Writer and Django Developer.
+- ### A Linux and Vim Enthusiast, BASH scripter, Pythonista. 
 ---
 ## Author at
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/meetgor/articles) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mr_destructive) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://techstructiveblog.hashnode.dev/) [![Codenewbie](https://img.shields.io/badge/codenewbie-black?style=for-the-badge&logo=codenewbie&logoColor=#8cd345)](https://community.codenewbie.org/mr_destructive)
