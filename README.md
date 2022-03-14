@@ -10,11 +10,11 @@
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pipenv: Python&#39;s Official Package Management tool](https://mr-destructive.github.io/techstructive-blog/pipenv-intro)
 - [Podevcast: A single source for developer podcasts](https://mr-destructive.github.io/techstructive-blog/podevcast-project)
 - [Django Basics: CRUD API](https://mr-destructive.github.io/techstructive-blog/django-basics-crud-api)
 - [Django Basics: Admin Section](https://mr-destructive.github.io/techstructive-blog/django-basics-admin)
 - [Django Basics: Database Configurations](https://mr-destructive.github.io/techstructive-blog/django-database-conf)
-- [Django Basics: Creating Models](https://mr-destructive.github.io/techstructive-blog/django-basics-models)
 <!-- BLOG-POST-LIST:END -->
 ---
 
