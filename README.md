@@ -16,6 +16,11 @@
 - [Django Basics: CRUD API](https://mr-destructive.github.io/techstructive-blog/django-basics-crud-api)
 - [Django Basics: Admin Section](https://mr-destructive.github.io/techstructive-blog/django-basics-admin)
 <!-- BLOG-POST-LIST:END -->
+
+#### [daily.dev](https://app.daily.dev/) Bookmarks
+ 
+<!-- BOOKMARKS-LIST:START -->
+<!-- BOOKMARKS-LIST:END -->
 ---
 
 ## Toolbox
