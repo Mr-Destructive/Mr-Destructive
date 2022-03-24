@@ -20,6 +20,11 @@
 #### [daily.dev](https://app.daily.dev/) Bookmarks
  
 <!-- BOOKMARKS-LIST:START -->
+- [How Does Redis Work? An Example](https://app.daily.dev/posts/czaVQtP5N?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
+- [Music for Programming – Coding Music Playlists, Radio Stations, Videos, and Lives](https://app.daily.dev/posts/uruAKM53c?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
+- [If I were to start my Android career in 2022, here is how I would do it](https://app.daily.dev/posts/U0U6M9Qcm?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
+- [Docker, Containers &amp; Confusions](https://app.daily.dev/posts/ZJ801GWXj?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
+- [How To Get Started Hacking Django Based Applications](https://app.daily.dev/posts/oDz1xtb__?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
 <!-- BOOKMARKS-LIST:END -->
 ---
 
