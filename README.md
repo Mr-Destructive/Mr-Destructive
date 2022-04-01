@@ -10,11 +10,11 @@
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang: What and Why?](https://mr-destructive.github.io/techstructive-blog/golang-intro)
 - [Feedparser: Python package for reading RSS feeds](https://mr-destructive.github.io/techstructive-blog/python-feedparser)
 - [Pipx: A python package consumption tool for CLI packages](https://mr-destructive.github.io/techstructive-blog/pipx-intro)
 - [Pipenv: Python&#39;s Official Package Management tool](https://mr-destructive.github.io/techstructive-blog/pipenv-intro)
 - [Podevcast: A single source for developer podcasts](https://mr-destructive.github.io/techstructive-blog/podevcast-project)
-- [Django Basics: CRUD API](https://mr-destructive.github.io/techstructive-blog/django-basics-crud-api)
 <!-- BLOG-POST-LIST:END -->
 
 #### [daily.dev](https://app.daily.dev/) Bookmarks
