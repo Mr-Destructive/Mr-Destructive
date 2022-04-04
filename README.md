@@ -10,11 +10,11 @@
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang: Conditionals and Loops](https://mr-destructive.github.io/techstructive-blog/golang-conditionals-loops)
 - [Golang: Variables and Types](https://mr-destructive.github.io/techstructive-blog/golang-variables)
 - [Golang: Installation and Hello-World](https://mr-destructive.github.io/techstructive-blog/hello-golang)
 - [Golang: What and Why?](https://mr-destructive.github.io/techstructive-blog/golang-intro)
 - [Feedparser: Python package for reading RSS feeds](https://mr-destructive.github.io/techstructive-blog/python-feedparser)
-- [Pipx: A python package consumption tool for CLI packages](https://mr-destructive.github.io/techstructive-blog/pipx-intro)
 <!-- BLOG-POST-LIST:END -->
 
 #### [daily.dev](https://app.daily.dev/) Bookmarks
