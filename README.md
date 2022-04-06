@@ -10,11 +10,11 @@
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang: Arrays](https://mr-destructive.github.io/techstructive-blog/golang-arrays)
 - [Golang: Input](https://mr-destructive.github.io/techstructive-blog/golang-input)
 - [Golang: Conditionals and Loops](https://mr-destructive.github.io/techstructive-blog/golang-conditionals-loops)
 - [Golang: Variables and Types](https://mr-destructive.github.io/techstructive-blog/golang-variables)
 - [Golang: Installation and Hello-World](https://mr-destructive.github.io/techstructive-blog/hello-golang)
-- [Golang: What and Why?](https://mr-destructive.github.io/techstructive-blog/golang-intro)
 <!-- BLOG-POST-LIST:END -->
 
 #### [daily.dev](https://app.daily.dev/) Bookmarks
