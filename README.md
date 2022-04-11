@@ -20,11 +20,11 @@
 #### [daily.dev](https://app.daily.dev/) Bookmarks
  
 <!-- BOOKMARKS-LIST:START -->
+- [Introduction to Streamlit and Streamlit Components](https://app.daily.dev/posts/1JFFlX6xm?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
 - [[Golang] Writing CLI App in Golang with Cobra](https://app.daily.dev/posts/6-H-pF7Ap?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
 - [PDM: A smarter way to manage Python packages](https://app.daily.dev/posts/v6F19mlBH?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
 - [How Does Redis Work? An Example](https://app.daily.dev/posts/czaVQtP5N?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
 - [Music for Programming – Coding Music Playlists, Radio Stations, Videos, and Lives](https://app.daily.dev/posts/uruAKM53c?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
-- [If I were to start my Android career in 2022, here is how I would do it](https://app.daily.dev/posts/U0U6M9Qcm?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
 <!-- BOOKMARKS-LIST:END -->
 ---
 
