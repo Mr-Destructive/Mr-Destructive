@@ -46,7 +46,7 @@
 
 ## Github Stats
 
-![Mr-Destructive's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Destructive&show_icons=true&theme=cobalt)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Destructive&layout=compact&hide=ruby,css,scss&langs_count=7)](https://github.com/Mr-Destructive/github-readme-stats)
+![Mr-Destructive's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Destructive&show_icons=true&theme=cobalt)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Destructive&layout=compact&hide=html,ruby,css,scss&langs_count=7)](https://github.com/Mr-Destructive/github-readme-stats)
 
 ---
 ## Connect with me 
