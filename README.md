@@ -10,11 +10,11 @@
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang: Operators](https://mr-destructive.github.io/techstructive-blog/golang-operators)
 - [Golang: Math Package](https://mr-destructive.github.io/techstructive-blog/golang-math)
 - [Golang: Packages](https://mr-destructive.github.io/techstructive-blog/golang-packages)
 - [Golang: Pointers](https://mr-destructive.github.io/techstructive-blog/golang-pointers)
 - [Golang: Structs](https://mr-destructive.github.io/techstructive-blog/golang-structs)
-- [Golang: Functions](https://mr-destructive.github.io/techstructive-blog/golang-functions)
 <!-- BLOG-POST-LIST:END -->
 
 #### [daily.dev](https://app.daily.dev/) Bookmarks
