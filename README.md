@@ -9,21 +9,14 @@
 ---
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
 
-### Latest Blog Posts  | Daily Dev Bookmarks
+### Latest Blog Posts  
   <!-- BLOG-POST-LIST:START -->
 - [Django Project with PostgreSQL Deployment on Railway App](https://mr-destructive.github.io/techstructive-blog/django-deploy-railway)
 - [Django + PostgreSQL Deployment on Heroku](https://mr-destructive.github.io/techstructive-blog/django-deploy-heroku)
 - [Golang: Operators](https://mr-destructive.github.io/techstructive-blog/golang-operators)
 - [Golang: Math Package](https://mr-destructive.github.io/techstructive-blog/golang-math)
 - [Golang: Packages](https://mr-destructive.github.io/techstructive-blog/golang-packages)
-<!-- BLOG-POST-LIST:END --> | <!-- BOOKMARKS-LIST:START -->
-- [Coding A Neural Network From Scratch in NumPy](https://app.daily.dev/posts/JPbE4I0a_?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
-- [How to Build a Complete Web App with Python and CockroachDB](https://app.daily.dev/posts/fU74RzMID?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
-- [Introduction to Streamlit and Streamlit Components](https://app.daily.dev/posts/1JFFlX6xm?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
-- [[Golang] Writing CLI App in Golang with Cobra](https://app.daily.dev/posts/6-H-pF7Ap?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
-- [PDM: A smarter way to manage Python packages](https://app.daily.dev/posts/v6F19mlBH?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
-<!-- BOOKMARKS-LIST:END --> |
-
+<!-- BLOG-POST-LIST:END --> 
 
 ## Toolbox
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
