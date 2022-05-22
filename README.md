@@ -10,7 +10,13 @@
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
 
 ### Latest Blog Posts  | Daily Dev Bookmarks
-  <!-- BLOG-POST-LIST:START -->  <!-- BLOG-POST-LIST:END --> | <!-- BOOKMARKS-LIST:START -->
+  <!-- BLOG-POST-LIST:START -->
+- [Django Project with PostgreSQL Deployment on Railway App](https://mr-destructive.github.io/techstructive-blog/django-deploy-railway)
+- [Django + PostgreSQL Deployment on Heroku](https://mr-destructive.github.io/techstructive-blog/django-deploy-heroku)
+- [Golang: Operators](https://mr-destructive.github.io/techstructive-blog/golang-operators)
+- [Golang: Math Package](https://mr-destructive.github.io/techstructive-blog/golang-math)
+- [Golang: Packages](https://mr-destructive.github.io/techstructive-blog/golang-packages)
+<!-- BLOG-POST-LIST:END --> | <!-- BOOKMARKS-LIST:START -->
 - [Coding A Neural Network From Scratch in NumPy](https://app.daily.dev/posts/JPbE4I0a_?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
 - [How to Build a Complete Web App with Python and CockroachDB](https://app.daily.dev/posts/fU74RzMID?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
 - [Introduction to Streamlit and Streamlit Components](https://app.daily.dev/posts/1JFFlX6xm?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
