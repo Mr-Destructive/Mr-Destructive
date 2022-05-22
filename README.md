@@ -10,7 +10,13 @@
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
 
 ### Latest Blog Posts  | Daily Dev Bookmarks
-  <!-- BLOG-POST-LIST:START -->  <!-- BLOG-POST-LIST:END --> | <!-- BOOKMARKS-LIST:START --><!-- BOOKMARKS-LIST:END --> |
+  <!-- BLOG-POST-LIST:START -->  <!-- BLOG-POST-LIST:END --> | <!-- BOOKMARKS-LIST:START -->
+- [Coding A Neural Network From Scratch in NumPy](https://app.daily.dev/posts/JPbE4I0a_?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
+- [How to Build a Complete Web App with Python and CockroachDB](https://app.daily.dev/posts/fU74RzMID?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
+- [Introduction to Streamlit and Streamlit Components](https://app.daily.dev/posts/1JFFlX6xm?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
+- [[Golang] Writing CLI App in Golang with Cobra](https://app.daily.dev/posts/6-H-pF7Ap?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
+- [PDM: A smarter way to manage Python packages](https://app.daily.dev/posts/v6F19mlBH?utm_source=rss&utm_medium=bookmarks&utm_campaign=lxsVqfI8U)
+<!-- BOOKMARKS-LIST:END --> |
 
 
 ## Toolbox
