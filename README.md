@@ -8,10 +8,16 @@
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/meetgor/articles) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mr_destructive) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://techstructiveblog.hashnode.dev/) [![Codenewbie](https://img.shields.io/badge/codenewbie-purple?style=for-the-badge&logo=codenewbie)](https://community.codenewbie.org/mr_destructive)
 ---
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
-| Latest Blog Posts | [daily.dev](https://app.daily.dev/) Bookmarks|
-| <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END --> | <!-- BOOKMARKS-LIST:START --> <!-- BOOKMARKS-LIST:END --> |
 
----
+<div align="left">
+Latest Blog Posts  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</div>
+
+<div align="right">
+[daily.dev](https://app.daily.dev/) Bookmarks  <!-- BOOKMARKS-LIST:START --> 
+  <!-- BOOKMARKS-LIST:END --> |
+</div>
 
 ## Toolbox
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
