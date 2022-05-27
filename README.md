@@ -1,15 +1,21 @@
-<a align="left" href="https://app.daily.dev/Mr_Destructive" ><img align="right" src="https://api.daily.dev/devcards/38b3d746e9794df99fdb1f68bd5efd84.png?r=gmb" width="250" alt="Meet Gor's Dev Card"/></a> 
+
 ## 👋 Hi, I’m Meet Gor aka @Mr-Destructive
-- ### I am a student pursing B.Tech in I.T., I like programming a lot. 
-- ### Technical Content Writer and Django Developer.
-- ### A Linux and Vim Enthusiast, BASH scripter, Pythonista. 
+- I am a student pursing B.Tech in I.T., I like programming a lot. 
+- Technical Content Writer and Django Developer.
+- A Linux and Vim Enthusiast, BASH scripter, Pythonista. 
+
+I am currently working on Django projects and learning about Golang. I am open to collabrating and contributing on open source ideas and projects. 
+
 ---
+
 ## Author at
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/meetgor/articles) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mr_destructive) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://techstructiveblog.hashnode.dev/) [![Codenewbie](https://img.shields.io/badge/codenewbie-purple?style=for-the-badge&logo=codenewbie)](https://community.codenewbie.org/mr_destructive)
 ---
+<a align="left" href="https://app.daily.dev/Mr_Destructive" ><img align="right" src="https://api.daily.dev/devcards/38b3d746e9794df99fdb1f68bd5efd84.png?r=gmb" width="250" alt="Meet Gor's Dev Card"/></a> 
 ## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
 
 ### Latest Blog Posts  
+
   <!-- BLOG-POST-LIST:START -->
 - [Django Project with PostgreSQL Deployment on Railway App](https://mr-destructive.github.io/techstructive-blog/django-deploy-railway)
 - [Django + PostgreSQL Deployment on Heroku](https://mr-destructive.github.io/techstructive-blog/django-deploy-heroku)
