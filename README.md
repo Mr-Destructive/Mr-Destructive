@@ -17,11 +17,11 @@ I am currently working on Django projects and learning about Golang. I am open t
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
-- [Django Project with PostgreSQL Deployment on Railway App](https://mr-destructive.github.io/techstructive-blog/django-deploy-railway)
-- [Django + PostgreSQL Deployment on Heroku](https://mr-destructive.github.io/techstructive-blog/django-deploy-heroku)
-- [Golang: Operators](https://mr-destructive.github.io/techstructive-blog/golang-operators)
-- [Golang: Math Package](https://mr-destructive.github.io/techstructive-blog/golang-math)
-- [Golang: Packages](https://mr-destructive.github.io/techstructive-blog/golang-packages)
+- [Django Project with PostgreSQL Deployment on Railway App](https://www.meetgor.com/django-deploy-railway)
+- [Django + PostgreSQL Deployment on Heroku](https://www.meetgor.com/django-deploy-heroku)
+- [Golang: Operators](https://www.meetgor.com/golang-operators)
+- [Golang: Math Package](https://www.meetgor.com/golang-math)
+- [Golang: Packages](https://www.meetgor.com/golang-packages)
 <!-- BLOG-POST-LIST:END --> 
 
 ## Toolbox
