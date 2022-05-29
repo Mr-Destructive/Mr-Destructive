@@ -12,7 +12,7 @@ I am currently working on Django projects and learning about Golang. I am open t
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/meetgor/articles) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mr_destructive) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://techstructiveblog.hashnode.dev/) [![Codenewbie](https://img.shields.io/badge/codenewbie-purple?style=for-the-badge&logo=codenewbie)](https://community.codenewbie.org/mr_destructive)
 ---
 <a align="left" href="https://app.daily.dev/Mr_Destructive" ><img align="right" src="https://api.daily.dev/devcards/38b3d746e9794df99fdb1f68bd5efd84.png?r=gmb" width="250" alt="Meet Gor's Dev Card"/></a> 
-## Personal blog @ [Techstructive Blog](https://mr-destructive.github.io/techstructive-blog/)
+## Personal blog @ [Techstructive Blog](https://www.meetgor.com/blog/)
 
 ### Latest Blog Posts  
 
