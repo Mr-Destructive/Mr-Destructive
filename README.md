@@ -1,8 +1,8 @@
 
 ## 👋 Hi, I’m Meet Gor aka @Mr-Destructive
-- I am a student pursing B.Tech in I.T., I like programming a lot. 
-- Technical Content Writer and Django Developer.
-- A Linux and Vim Enthusiast, BASH scripter, Pythonista. 
+- I am a student 👨‍🎓 pursing B.Tech in I.T., I like programming a lot 👨‍💻. 
+- Technical Content Writer ✍️ and Django Developer 🦄.
+- A Linux 🐧 and Vim Enthusiast, BASH scripter, Pythonista 🐍. 
 
 I am currently working on Django projects and learning about Golang. I am open to collabrating and contributing on open source ideas and projects. 
 
@@ -37,6 +37,7 @@ I am currently working on Django projects and learning about Golang. I am open t
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
