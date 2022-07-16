@@ -17,11 +17,11 @@ I am currently working on Django projects and learning about Golang. I am open t
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Deploying Django Project with Railway Nixpacks](https://www.meetgor.com/django-deploy-railway-nixpacks)
 - [Configure Neovim in Lua](https://www.meetgor.com/neovim-vimscript-to-lua)
 - [Golang: Defer](https://www.meetgor.com/golang-defer)
 - [Golang: String Manipulation](https://www.meetgor.com/golang-strings)
 - [Golang: Mutable and Immutable Data Types](https://www.meetgor.com/golang-mutable-immutable)
-- [Django Project with PostgreSQL Deployment on Railway App](https://www.meetgor.com/django-deploy-railway)
 <!-- BLOG-POST-LIST:END --> 
 
 ## Toolbox
