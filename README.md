@@ -39,11 +39,6 @@ I am currently working on Django projects and learning about Golang. I am open t
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## Github Stats
-
-![Mr-Destructive's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Destructive&show_icons=true&theme=cobalt)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Destructive&layout=compact&hide=html,ruby,css,scss&langs_count=7)](https://github.com/Mr-Destructive/github-readme-stats)
 
 ---
 ## Connect with me 
