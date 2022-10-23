@@ -17,11 +17,11 @@ I am currently working on Django projects and learning about Golang. I am open t
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Golang: File Reading](https://www.meetgor.com/golang-file-read)
 - [Golang: Paths](https://www.meetgor.com/golang-paths)
 - [Golang: Error Handling](https://www.meetgor.com/golang-error-handling)
 - [Golang: Interfaces](https://www.meetgor.com/golang-interfaces)
 - [Golang: Closures](https://www.meetgor.com/golang-closures)
-- [PGCLI: Postgres from the terminal](https://www.meetgor.com/pgcli-pg-from-terminal)
 <!-- BLOG-POST-LIST:END --> 
 
 ## Toolbox
