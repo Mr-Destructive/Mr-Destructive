@@ -17,11 +17,11 @@ I am currently working on Django projects and learning about Golang. I am open t
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Golang: Command Line Arguments](https://www.meetgor.com/golang-command-line-args)
 - [2022: Year Review](https://www.meetgor.com/2022-review)
 - [Golang: File Write](https://www.meetgor.com/golang-file-write)
 - [Golang: JSON YAML TOML &lpar;config&rpar; File Reading.](https://www.meetgor.com/golang-config-file-read)
 - [Golang: File Reading](https://www.meetgor.com/golang-file-read)
-- [Golang: Paths](https://www.meetgor.com/golang-paths)
 <!-- BLOG-POST-LIST:END --> 
 
 ## Toolbox
