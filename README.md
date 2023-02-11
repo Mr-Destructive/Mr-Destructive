@@ -17,7 +17,7 @@ I am currently working on Django projects and learning about Golang. I am open t
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
-- [Creting a Chat Application with Django and HTMX](https://www.meetgor.com/django-htmx-chat-app)
+- [Creating a Chat Application with Django and HTMX](https://www.meetgor.com/django-htmx-chat-app)
 - [Golang: Command Line Arguments](https://www.meetgor.com/golang-command-line-args)
 - [2022: Year Review](https://www.meetgor.com/2022-review)
 - [Golang: File Write](https://www.meetgor.com/golang-file-write)
