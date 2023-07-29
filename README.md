@@ -14,11 +14,11 @@ I am currently working on Django projects and learning about Golang. I am open t
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Golang: Go Routines and WaitGroups](https://www.meetgor.com/golang-go-routines)
 - [Golang: Generics](https://www.meetgor.com/golang-generics)
 - [Golang: Date and Time](https://www.meetgor.com/golang-date-time)
 - [Golang: Random Numbers](https://www.meetgor.com/golang-random-numbers)
 - [Golang: Regex](https://www.meetgor.com/golang-regex)
-- [Creating a Chat Application with Django and HTMX](https://www.meetgor.com/django-htmx-chat-app)
 <!-- BLOG-POST-LIST:END --> 
 
 ## Toolbox
