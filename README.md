@@ -12,11 +12,11 @@ I am currently working on Django projects and learning about Golang. I am open t
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Golang Web: GET Method](https://www.meetgor.com/golang-web-get-method)
 - [Golang Web: URL Parsing](https://www.meetgor.com/golang-web-url-parsing)
 - [Golang: Channels](https://www.meetgor.com/golang-channels)
 - [Golang: Go Routines and WaitGroups](https://www.meetgor.com/golang-go-routines)
 - [Golang: Generics](https://www.meetgor.com/golang-generics)
-- [Golang: Date and Time](https://www.meetgor.com/golang-date-time)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
