@@ -12,11 +12,11 @@ I am currently working on Django projects and learning about Golang. I am open t
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Neovim + Sourcegraph Cody Plugin Integration](https://www.meetgor.com/neovim-sourcegraph-cody)
 - [2023: Year Review](https://www.meetgor.com/2023-review)
 - [Golang Web: GET Method](https://www.meetgor.com/golang-web-get-method)
 - [Golang Web: URL Parsing](https://www.meetgor.com/golang-web-url-parsing)
 - [Golang: Channels](https://www.meetgor.com/golang-channels)
-- [Golang: Go Routines and WaitGroups](https://www.meetgor.com/golang-go-routines)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
