@@ -1,11 +1,11 @@
 
 ## 👋 Hi, I’m Meet Gor aka @Mr-Destructive
-- I am a student 👨‍🎓 pursuing B.Tech in I.T., I like programming a lot 👨‍💻. 
-- Technical Content Writer ✍️ and Django Developer 🦄.
-- A Linux 🐧 and Vim Enthusiast, Gopher 🐹 , Pythonista 🐍.
-
-I am currently working on Django projects and learning about Golang. I am open to collaborating and contributing to open-source ideas and projects. 
-
+- I love to code in Golang and Python
+- Like developing and interacting with APIs and CLIs
+- I use Vim BTW, constantly improving my development environment
+- Writing technical articles and documentation
+- Currently learning functional programming with OCAML, working with documents at @Docsumo
+ 
 ---
 ## Personal blog @ [Techstructive Blog](https://www.meetgor.com/blog/)
 
@@ -24,5 +24,4 @@ I am currently working on Django projects and learning about Golang. I am open t
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MeetGor21)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetgor/)
-[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/mr_destructive)
-[![Showcse](https://img.shields.io/badge/Showwcase-black?style=for-the-badge&logoColor=black)](https://www.showwcase.com/mr-destructive)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mr_destructive)
