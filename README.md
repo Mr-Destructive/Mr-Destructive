@@ -12,11 +12,11 @@
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Golang Web: POST Method](https://www.meetgor.com/golang-web-post-method)
 - [NGINX Basics and Setup](https://www.meetgor.com/nginx-01-basics)
 - [Neovim + Sourcegraph Cody Plugin Integration](https://www.meetgor.com/neovim-sourcegraph-cody)
 - [2023: Year Review](https://www.meetgor.com/2023-review)
 - [Golang Web: GET Method](https://www.meetgor.com/golang-web-get-method)
-- [Golang Web: URL Parsing](https://www.meetgor.com/golang-web-url-parsing)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
