@@ -12,11 +12,11 @@
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [NGINX Survival Guide: Serving Web Applications](https://www.meetgor.com/nginx-02-web-servers)
 - [Golang Web: PUT Method](https://www.meetgor.com/golang-web-put-method)
 - [Golang Web: POST Method](https://www.meetgor.com/golang-web-post-method)
 - [NGINX Basics and Setup](https://www.meetgor.com/nginx-01-basics)
 - [Neovim + Sourcegraph Cody Plugin Integration](https://www.meetgor.com/neovim-sourcegraph-cody)
-- [2023: Year Review](https://www.meetgor.com/2023-review)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
