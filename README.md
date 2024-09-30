@@ -12,11 +12,11 @@
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Connect LibSQL Database hosted on Turso in a Golang Application](https://www.meetgor.com/turso-libsql-db-golang)
 - [Safely using Maps in Golang: Differences in declaration and initialization](https://www.meetgor.com/golang-safely-using-maps)
 - [NGINX Survival Guide: Serving Web Applications](https://www.meetgor.com/nginx-02-web-servers)
 - [Golang Web: PUT Method](https://www.meetgor.com/golang-web-put-method)
 - [Golang Web: POST Method](https://www.meetgor.com/golang-web-post-method)
-- [NGINX Basics and Setup](https://www.meetgor.com/nginx-01-basics)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
