@@ -12,11 +12,11 @@
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Advent of Code Day 3 in Golang: Do Or Don’t Regex](https://www.meetgor.com/aoc-2024-day-3)
 - [Use Embedded Replicas of LibSQL Database hosted on Turso with a Golang Application](https://www.meetgor.com/turso-libsql-embedded-replicas-golang)
 - [Connect LibSQL Database hosted on Turso in a Golang Application](https://www.meetgor.com/turso-libsql-db-golang)
 - [Safely using Maps in Golang: Differences in declaration and initialization](https://www.meetgor.com/golang-safely-using-maps)
 - [NGINX Survival Guide: Serving Web Applications](https://www.meetgor.com/nginx-02-web-servers)
-- [Golang Web: PUT Method](https://www.meetgor.com/golang-web-put-method)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
