@@ -12,11 +12,11 @@
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Advent of Code Day 4 in Golang: Finding XMAS and X-MAS](https://www.meetgor.com/aoc-2024-day-4)
 - [Advent of Code Day 3 in Golang: Do Or Don’t Regex](https://www.meetgor.com/aoc-2024-day-3)
 - [Advent of Code Day 2 in Golang: Slicing and Dicing Reports](https://www.meetgor.com/aoc-2024-day-2)
 - [Advent of Code, 2024, Day 1 in Golang: Historian Hysteria](https://www.meetgor.com/aoc-2024-day-1)
 - [Use Embedded Replicas of LibSQL Database hosted on Turso with a Golang Application](https://www.meetgor.com/turso-libsql-embedded-replicas-golang)
-- [Connect LibSQL Database hosted on Turso in a Golang Application](https://www.meetgor.com/turso-libsql-db-golang)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
