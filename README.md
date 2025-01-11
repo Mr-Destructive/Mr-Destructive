@@ -12,11 +12,11 @@
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Golang Web: PATCH Method](https://www.meetgor.com/golang-web-patch-method)
 - [2024: Year Review](https://www.meetgor.com/2024-review)
 - [Advent of Code Day 5 in Golang: Ordering Pages](https://www.meetgor.com/aoc-2024-day-5)
 - [Advent of Code Day 4 in Golang: Finding XMAS and X-MAS](https://www.meetgor.com/aoc-2024-day-4)
 - [Advent of Code Day 3 in Golang: Do Or Don’t Regex](https://www.meetgor.com/aoc-2024-day-3)
-- [Advent of Code Day 2 in Golang: Slicing and Dicing Reports](https://www.meetgor.com/aoc-2024-day-2)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
