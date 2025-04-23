@@ -12,11 +12,11 @@
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Can Developers prevent the Side-Project Graveyard with LLMs](https://www.meetgor.com/llms-prevent-side-project-graveyard)
 - [Golang Web: DELETE Method](https://www.meetgor.com/golang-web-delete-method)
 - [Golang Web: PATCH Method](https://www.meetgor.com/golang-web-patch-method)
 - [2024: Year Review](https://www.meetgor.com/2024-review)
 - [Advent of Code Day 5 in Golang: Ordering Pages](https://www.meetgor.com/aoc-2024-day-5)
-- [Advent of Code Day 4 in Golang: Finding XMAS and X-MAS](https://www.meetgor.com/aoc-2024-day-4)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
