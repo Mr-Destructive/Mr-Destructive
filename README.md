@@ -12,10 +12,10 @@
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Appwrite is now Full-Stack-as-a-Service with Sites](meetgor.com/)
 - [Techstructive Weekly #40](meetgor.com/)
 - [Add hunks: only line specific changes with git add -p](meetgor.com/)
 - [Techstructive Weekly #36](meetgor.com/)
-- [Robots Generate,Humans Manifest](meetgor.com/)
 - [Robots Generate, Humans Manifest: Techstructive Weekly #35](meetgor.com/)
 <!-- BLOG-POST-LIST:END --> 
 
