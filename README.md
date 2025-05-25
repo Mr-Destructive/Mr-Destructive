@@ -12,11 +12,11 @@
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [A draft post](meetgor.com/a-draft-post)
 - [I kind of hate Agentic IDEs for the sake of productivity](meetgor.com/i-kind-of-hate-agentic-ides-for-the-sake-of-productivity)
 - [Appwrite is now Full-Stack-as-a-Service with Sites](meetgor.com/)
 - [Techstructive Weekly #40](meetgor.com/)
 - [Add hunks: only line specific changes with git add -p](meetgor.com/)
-- [Format JSON in Vim with JQ](meetgor.com/format-json-in-vim-with-jq)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
