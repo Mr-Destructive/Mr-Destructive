@@ -12,11 +12,11 @@
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
-- [A draft post](meetgor.com/a-draft-post)
-- [I kind of hate Agentic IDEs for the sake of productivity](meetgor.com/i-kind-of-hate-agentic-ides-for-the-sake-of-productivity)
-- [Appwrite is now Full-Stack-as-a-Service with Sites](meetgor.com/)
-- [Techstructive Weekly #40](meetgor.com/)
-- [Add hunks: only line specific changes with git add -p](meetgor.com/)
+- [Golang Web: DELETE Method](meetgor.com/golang-web-delete-method)
+- [Golang Web: PATCH Method](meetgor.com/golang-web-patch-method)
+- [Golang weak package](meetgor.com/)
+- [2024: Year Review](meetgor.com/2024-review)
+- [Advent of Code Day 5 in Golang: Ordering Pages](meetgor.com/aoc-2024-day-5)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
