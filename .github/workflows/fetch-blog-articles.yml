@@ -13,6 +13,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.meetgor.com/rss"
-          template: "- [$title]($url)$newline"
+          template: "$newline- [$title]($url)$newline"
           disable_html_encoding: true
           item_exec: "const url = post.link || post.url || post.guid; if (url && !url.startsWith('http')) { post.link = 'https://' + url; post.url = 'https://' + url; }"
