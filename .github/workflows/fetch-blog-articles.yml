@@ -13,5 +13,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.meetgor.com/rss"
-          template: "[$title]($url)"
+          template: "- [$title]($url)$newline"
           disable_html_encoding: true
