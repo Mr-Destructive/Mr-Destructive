@@ -15,4 +15,4 @@ jobs:
           feed_list: "https://www.meetgor.com/rss"
           template: "- [$title]($url)$newline"
           disable_html_encoding: true
-          item_exec: "if (!post.link.startsWith('http')) { post.link = 'https://' + post.link; }"
+          item_exec: "const url = post.link || post.url || post.guid; if (url && !url.startsWith('http')) { post.link = 'https://' + url; post.url = 'https://' + url; }"
