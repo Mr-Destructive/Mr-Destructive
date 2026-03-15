@@ -18,9 +18,9 @@
 
 - [Golang Web: PATCH Method](https://meetgor.com/posts/golang-web-patch-method)
 
-- [Golang weak package](https://meetgor.com/posts/golang-weak-package)
-
 - [Understanding Go's Weak Package](https://meetgor.com/posts/understanding-go-s-weak-package)
+
+- [Golang weak package](https://meetgor.com/posts/golang-weak-package)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
