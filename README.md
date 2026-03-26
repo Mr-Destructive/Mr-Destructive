@@ -12,13 +12,13 @@
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
-- [{ "type": "til"](https://www.meetgor.com/posts/)
-
 - [2025: Year Review](https://www.meetgor.com/posts/2025-review)
 
 - [Golang Web: DELETE Method](https://www.meetgor.com/posts/golang-web-delete-method)
 
 - [Golang Web: PATCH Method](https://www.meetgor.com/posts/golang-web-patch-method)
+
+- [Golang weak package](https://www.meetgor.com/posts/golang-weak-package)
 
 - [Understanding Go's Weak Package](https://www.meetgor.com/posts/understanding-go-s-weak-package)
 <!-- BLOG-POST-LIST:END --> 
