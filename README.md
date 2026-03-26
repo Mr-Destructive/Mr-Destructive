@@ -12,15 +12,15 @@
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
-- [2025: Year Review](https://meetgor.com/posts/2025-review)
+- [{ "title": "Sam](https://www.meetgor.com/posts/)
 
-- [Golang Web: DELETE Method](https://meetgor.com/posts/golang-web-delete-method)
+- [2025: Year Review](https://www.meetgor.com/posts/2025-review)
 
-- [Golang Web: PATCH Method](https://meetgor.com/posts/golang-web-patch-method)
+- [Golang Web: DELETE Method](https://www.meetgor.com/posts/golang-web-delete-method)
 
-- [Understanding Go's Weak Package](https://meetgor.com/posts/understanding-go-s-weak-package)
+- [Golang Web: PATCH Method](https://www.meetgor.com/posts/golang-web-patch-method)
 
-- [Golang weak package](https://meetgor.com/posts/golang-weak-package)
+- [Golang weak package](https://www.meetgor.com/posts/golang-weak-package)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
