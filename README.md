@@ -12,6 +12,8 @@
 ### Latest Blog Posts  
 
   <!-- BLOG-POST-LIST:START -->
+- [Flight Observatory Mumbai Airspace Case Study](https://www.meetgor.com/posts/flight-observatory-mumbai-airspace-case-study)
+
 - [2025: Year Review](https://www.meetgor.com/posts/2025-review)
 
 - [Golang Web: DELETE Method](https://www.meetgor.com/posts/golang-web-delete-method)
@@ -19,8 +21,6 @@
 - [Golang Web: PATCH Method](https://www.meetgor.com/posts/golang-web-patch-method)
 
 - [Understanding Go's Weak Package](https://www.meetgor.com/posts/understanding-go-s-weak-package)
-
-- [Golang weak package](https://www.meetgor.com/posts/golang-weak-package)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
