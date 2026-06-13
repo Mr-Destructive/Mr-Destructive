@@ -20,7 +20,7 @@
 
 - [Golang Web: PATCH Method](https://www.meetgor.com/posts/golang-web-patch-method)
 
-- [Golang weak package](https://www.meetgor.com/posts/golang-weak-package)
+- [Understanding Go's Weak Package](https://www.meetgor.com/posts/understanding-go-s-weak-package)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
